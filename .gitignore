@@ -1,0 +1,10 @@
+# Auto-managed by paper_trading/publisher.py — PUBLIC repo allowlist (deny-by-default)
+# Public repo: deny all, then re-include only safe artifacts. Patterns are
+# basename-matched at any depth. Raw *.json/*.jsonl plaintext is NOT included.
+*
+!*/
+!.gitignore
+!index.html
+!meta.json
+!latest.enc
+!*.json.enc

@@ -1,0 +1,7 @@
+{
+  "strategy_id": "daily_raja_stable",
+  "type": "Intraday",
+  "instruments": [
+    "Options"
+  ]
+}

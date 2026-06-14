@@ -1,0 +1,7 @@
+{
+  "strategy_id": "royal_hippo",
+  "type": "Positional",
+  "instruments": [
+    "Options"
+  ]
+}
