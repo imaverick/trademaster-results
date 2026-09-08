@@ -2,7 +2,7 @@
   "strategy_id": "shadow_man",
   "type": "Positional",
   "instruments": [
-    "Options",
-    "Equity"
+    "Equity",
+    "Options"
   ]
 }
