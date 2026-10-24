@@ -1,7 +1,0 @@
-{
-  "strategy_id": "opus_nova",
-  "type": "Positional",
-  "instruments": [
-    "Options"
-  ]
-}
