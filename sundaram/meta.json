@@ -1,7 +1,7 @@
 {
   "strategy_id": "sundaram",
-  "type": "\u2014",
+  "type": "Positional",
   "instruments": [
-    "\u2014"
+    "Options"
   ]
 }
